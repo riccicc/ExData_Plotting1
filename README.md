@@ -1,7 +1,10 @@
 ## Introduction
 
+====================================================================================  
 This is an local edit of the original forked file.  This is the end of the edits.  
 
+For the assignment: Four R files and four png files along with this README.md file.  
+====================================================================================
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
